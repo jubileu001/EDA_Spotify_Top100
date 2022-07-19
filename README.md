@@ -1,0 +1,1 @@
+Essa análise foi desenvolvida como exercicio para uma trilha de estudo de ciências de dados. A idéia era utilizar um dataset bem dísponivel no kaggle e nele utilizar o máximo de ferramentas possível para realizar uma EDA.
